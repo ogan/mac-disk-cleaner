@@ -1,7 +1,7 @@
 # Mac Cleaner App - Documentation
 
 ## Project Purpose
-This project is a desktop application designed to manage disk space and free up storage by cleaning unnecessary files on macOS devices (especially MacBook Air M1).
+This project is a desktop application designed to manage disk space and free up storage by cleaning unnecessary files on macOS devices.
 
 ## Features
 The application scans and cleans files in the following categories:
