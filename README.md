@@ -1,7 +1,7 @@
 # Mac Cleaner App - Documentation
 
 ## Proje Amacı
-Bu proje, macOS (özellikle MacBook Air M1) cihazlar için disk alanını yönetmeye ve gereksiz dosyaları temizleyerek yer açmaya yarayan bir masaüstü uygulamasıdır.
+Bu proje, macOS cihazlar için disk alanını yönetmeye ve gereksiz dosyaları temizleyerek yer açmaya yarayan bir masaüstü uygulamasıdır.
 
 ## Özellikler
 Uygulama aşağıdaki kategorilerdeki dosyaları tarar ve temizler:
